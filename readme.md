@@ -1,6 +1,8 @@
-## readme.md
+# readme.md
 
 ## GhostProbe.ps1
+
+<img src="Images/GhostProbe application logo.png">
 
 ## whoami
 
