@@ -2,7 +2,7 @@
 
 ## GhostProbe.ps1
 
-<img src=">
+<img src="Images/GhostProbe application logo.png">
 
 ## whoami
 
