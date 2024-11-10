@@ -49,12 +49,12 @@ status and versions of services running on the ports.
 
 ## Available Parameters
 <ul>
- <li>-ip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*The IP address to scan. Default is set to <127.0.0.1>*</li>
- <li>-startPort&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*The starting port number for the scan. Default is <1>* </li>
- <li>-endPort&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*The ending port number for the scan. Default is <1024>* </li>
- <li>-outputFile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*The base name of the output file to save scan results. Default is "port_scan_results"*</li>
- <li>-outputFormat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*The format of the output file. Options are "txt" or "xml". Default is currently set as "txt"*</li>
- <li>-Verbose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;*A switch to enable verbose output*</li>
+ <li>-ip &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The IP address to scan. Default is set to <127.0.0.1></li>
+ <li>-startPort &emsp;&emsp;&emsp;&emsp;The starting port number for the scan. Default is <1></li>
+ <li>-endPort &emsp;&emsp;&emsp;&emsp;&nbsp;The ending port number for the scan. Default is <1024></li>
+ <li>-outputFile &emsp;&emsp;&emsp;&nbsp;The base name of the output file to save scan results. Default is "port_scan_results"</li>
+ <li>-outputFormat &emsp;&ensp;The format of the output file. Options are "txt" or "xml". Default is currently set as "txt"</li>
+ <li>-Verbose &emsp;&emsp;&emsp;&emsp;&nbsp;A switch to enable verbose output</li>
 </ul>
 
 ## Usage
