@@ -71,22 +71,22 @@ If you need to amend policy restrictions I would first caveat the policy changes
 compromise your current system policies by allowing remote scripts to run on your system. I have listed the types of execution policies 
 as follows:
 
-**Restricted** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Does not allow any scripts to run. This is the default execution policy for Windows client computers.
+**Restricted** &emsp;Does not allow any scripts to run. This is the default execution policy for Windows client computers.
 
-**AllSigned** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Requires that all scripts and configuration files be signed by a trusted publisher, including scripts that you write on 
+**AllSigned** &emsp;Requires that all scripts and configuration files be signed by a trusted publisher, including scripts that you write on 
 the local computer.
 
-**RemoteSigned** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Requires that all scripts and configuration files downloaded from the internet be signed by a trusted publisher. 
+**RemoteSigned** &emsp;Requires that all scripts and configuration files downloaded from the internet be signed by a trusted publisher. 
 Scripts written on the local computer do not need to be signed.
 
-**Unrestricted** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loads all configuration files and runs all scripts. If you run an unsigned script that was downloaded from the 
+**Unrestricted** &emsp;Loads all configuration files and runs all scripts. If you run an unsigned script that was downloaded from the 
 internet, you are prompted for permission before it runs.
 
-**Bypass** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nothing is blocked, and there are no warnings or prompts. This policy is designed for configurations in which a PowerShell 
+**Bypass** &emsp;Nothing is blocked, and there are no warnings or prompts. This policy is designed for configurations in which a PowerShell 
 script is built into a larger application or for configurations in which PowerShell is used to perform a one-time task that is not 
 part of a routine administrative script.
 
-**Undefined** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removes the currently assigned execution policy from the current scope (current user, local machine, etc.). If the 
+**Undefined** &emsp;Removes the currently assigned execution policy from the current scope (current user, local machine, etc.). If the 
 execution policy in all scopes is Undefined, the effective execution policy is Restricted, which is the default.
 
 ## Ready to go
