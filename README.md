@@ -119,6 +119,25 @@ Once you have everything ready, use the following command to run the script in y
 .\GhostProbe.ps1 -ip "TARGET_IP_ADDRESS" -startPort CHOSEN_START_PORT -endPort CHOSEN_END_PORT -outputFile "FILE_NAME" -outputFormat "EITHER_txt_OR_xml" -Verbose
 
 
+##
 Be sure to include the " " when inserting the target IP address, the file name and file format. 
 
 The port start and end parameters DO NOT require " ".
+
+
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=SpartanPhalanx8&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpartanPhalanx8&theme=vue-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpartanPhalanx8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+## Favorite Tech
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp;
+<div>
